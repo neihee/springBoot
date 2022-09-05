@@ -69,11 +69,11 @@
         </dependency>
 
         <!--util-->
-        <dependency>
+        <!--dependency>
             <groupId>com.jf</groupId>
             <artifactId>page-mysql</artifactId>
             <version>1.0</version>
-        </dependency>
+        </dependency-->
 
         <dependency>
             <groupId>org.apache.commons</groupId>
